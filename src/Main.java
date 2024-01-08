@@ -24,7 +24,7 @@ public class Main {
         dog2.makeVoice(3);
         System.out.println("-----------------------");
 
-        
+
         System.out.println(pet.info());
         System.out.println("-----------------------");
         System.out.println(dog1.info());
